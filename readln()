@@ -1,0 +1,7 @@
+package Taskk1
+
+fun main(){
+    var name= readln()
+    println("Hello $name")
+
+}
